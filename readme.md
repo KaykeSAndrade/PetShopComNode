@@ -1,13 +1,4 @@
 # PetShop em NodeJS
 Projeto PetShop feito em NodeJS
 
-### Pré-requisitos globais:
-
-`npm i -g nodemon typescript ts-node`
-
-### Instalação
-`npm install`
-
-### Para Rodar o Projeto
-
-`npm run start dev`
+![petshop](https://user-images.githubusercontent.com/100283512/176175972-b94d9448-6a67-4e41-947e-d0e7a8731dae.PNG)
